@@ -36,3 +36,11 @@ Criar Array`s contendo cada classe de ingredientes e seus respectivos dentro. E 
 ## Etapa 2: Montar a pizza e exibi-lá
 
 Utilizando o push, pegar cada ingrediente e adicionar no array vazio, fazer o raciocínio utilizando for e o método "lenght" e depois exibi-lá com o "'console.log"
+
+# Atividade 06: Programando ataque de robô
+
+## Etapa 1: Criar um array de arsenal, com as armas e um array vazio chamado ataque 
+
+## Etapa 2: Adicionar ao array vazio o nome, os ataques e os exibi-lo seguido do nome do robô e da numeração do ataque 
+
+Utilizando push,for, .lenght, if e console.log
