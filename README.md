@@ -26,3 +26,13 @@ Utilizando métodos para clonar arrays, comparar entre falso e verdadeiro, exibi
 # Atividade 04: Continuação da revisão sobre Array
 
 Usando os métodos "push" e "pop", e exibindo os arrays em tabela.
+
+# Atividade 05: Ultima revisão sobre Array, Atividade montando pizza 
+
+## Etapa 1: Ingredientes
+
+Criar Array`s contendo cada classe de ingredientes e seus respectivos dentro. E criar um array vazio chamado "Pizza".
+
+## Etapa 2: Montar a pizza e exibi-lá
+
+Utilizando o push, pegar cada ingrediente e adicionar no array vazio, fazer o raciocínio utilizando for e o método "lenght" e depois exibi-lá com o "'console.log"
